@@ -4,3 +4,5 @@
 3-twofiles script to Display the content of /etc/passwd and /etc/hosts
 4-lastlines script that display the last 10 lines of /etc/passwd
 5-firstlines script displaying the first 10 lines of /etc/passwd
+6-third_line script that displays the third line of the file iacta.
+
